@@ -1281,19 +1281,18 @@ elif page == "About":
                 menggunakan Machine Learning berbasis data aktivitas,
                 tidur, stres, dan faktor kognitif lainnya.
             </p>
-
             <h4 style='color:#1a1a2e;'>🎯 Tujuan Project</h4>
             <p style='color:#4a5568;'>
                 Membantu individu dan organisasi mendeteksi kelelahan
                 lebih awal sehingga dapat mengambil tindakan pencegahan
                 sebelum produktivitas menurun atau terjadi kecelakaan kerja.
             </p>
-
             <h4 style='color:#1a1a2e;'>🔬 Metodologi</h4>
             <p style='color:#4a5568;'>
                 Random Forest dipilih sebagai model utama karena
-                kemampuannya menangani data tabular, tidak sensitif terhadap
-                outlier, dan memberikan feature importance yang interpretatif.
+                kemampuannya menangani data tabular, tidak sensitif
+                terhadap outlier, dan memberikan feature importance
+                yang interpretatif.
             </p>
         </div>
         """, unsafe_allow_html=True)

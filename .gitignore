@@ -1,0 +1,64 @@
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ================================
+# Virtual Environment
+# ================================
+venv/
+.venv/
+env/
+.env
+ENV/
+
+# ================================
+# Jupyter Notebook
+# ================================
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ================================
+# OS Files
+# ================================
+.DS_Store
+.DS_Store?
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# ================================
+# IDE / Editor
+# ================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ================================
+# Logs & Temp
+# ================================
+*.log
+*.tmp
+*.temp
+logs/
+
+# ================================
+# JANGAN di-ignore (wajib masuk GitHub)
+# ================================
+# data/          ← INCLUDE
+# model/         ← INCLUDE
+# assets/        ← INCLUDE
+# app.py         ← INCLUDE
+# train_model.py ← INCLUDE
+# requirements.txt ← INCLUDE
